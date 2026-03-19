@@ -4,7 +4,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chintha%20Gowri%20Shankar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chintha%20Gowri%20Shankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chintha%20Gowri%20Shankar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintha-gowri-shankar-a7a4242a0)
 
 [![Email](https://img.shields.io/badge/Email-chinthagowrishankar18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthagowrishankar18@gmail.com)
 
